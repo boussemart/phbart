@@ -45,15 +45,6 @@ img {
     height: auto;
 }
 
-/* Style for bulle images */
-img.bulle {
-    width: 15px; /* Adjusted size for mobile */
-    margin-left: 0; /* Reset margin for mobile */
-    position: absolute; /* Position relative to parent */
-    top: 0;
-    left: 0;
-}
-
 /* Adjust headings */
 h1, h2, h3, h4 {
     font-size: 1.5em; /* Use em for scaling */
