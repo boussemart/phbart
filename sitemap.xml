@@ -146,6 +146,16 @@
     <lastmod>2025-02-11</lastmod>
   </url>
   <url>
+    <loc>http://boussemart.com/creations/histoire_d_eau/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-12-12</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/l_envol/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-12-12</lastmod>
+  </url>
+  <url>
     <loc>http://boussemart.com/copies/Fragonard/</loc>
     <changefreq>monthly</changefreq>
     <lastmod>2025-02-11</lastmod>
@@ -284,6 +294,26 @@
     <loc>http://boussemart.com/creations/LesSaisons/</loc>
     <changefreq>monthly</changefreq>
     <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LesSaisons/automne/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-12-12</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LesSaisons/ete/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-12-12</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LesSaisons/hiver/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-12-12</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LesSaisons/printemps/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-12-12</lastmod>
   </url>
   <url>
     <loc>http://boussemart.com/creations/laporte/</loc>
@@ -641,6 +671,11 @@
     <lastmod>2025-02-11</lastmod>
   </url>
   <url>
+    <loc>http://boussemart.com/murs/Cuisine_Nointel/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-12-12</lastmod>
+  </url>
+  <url>
     <loc>http://boussemart.com/murs/Entree/</loc>
     <changefreq>monthly</changefreq>
     <lastmod>2025-02-11</lastmod>
@@ -834,5 +869,10 @@
     <loc>http://boussemart.com/divers/PanneauPhilippe/</loc>
     <changefreq>monthly</changefreq>
     <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/divers/Porte/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-12-12</lastmod>
   </url>
 </urlset>
