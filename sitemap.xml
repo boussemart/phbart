@@ -1,938 +1,838 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>http://boussemart.com/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-01-26</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-01-26</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/decorations/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/divers/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/l_attente/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-1-26</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/atterrissage/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-1-26</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/l_attente/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-1-26</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/MaBulle/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Help/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Jour_et_Nuit/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Rose_2/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Life/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/cheval/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Reconciliation/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_1/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_2/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_3/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_4/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_5/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_6/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/enfin_libres/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/La_Grande_Vague/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LesLarmesDePericles/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LeReposDuGuerrier/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LeRegardQuiTue/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LaGrandeVague/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/horloge/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/Fragonard/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/paravent/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/chambre_nointel/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/chambre_taverny/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/couloir_taverny/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/dessus_de_portes/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/salle_de_bain_nointel/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/salle_de_bain_taverny/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/salon_nointel/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/Vernet/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/copies/vernet_marseille/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Help/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Jour_et_Nuit/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Life/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Rose_2/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/cheval/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Reconciliation/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_1/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_2/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_3/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_4/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_5/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/element_6/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/enfin_libres/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/La_Grande_Vague/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/horloge/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LaGrandeVague/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LeReposDuGuerrier/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LeRegardQuiTue/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LesLarmesDePericles/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Vache/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Santorin_matin/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Santorin_au_soir/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Paysage_grec/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/La_victoire_de_la_Nature/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Damocles/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LiberteEgaliteFraternite/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Occident/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Orient/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LumiereEtTenebres/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LeTemps/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Hier/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Aujourdhui/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Demain/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Jarrive/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Chaos-et-Harmonie/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/LesSaisons/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/laporte/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/clementine/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/ni-dieu_ni-maitre/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/ni-dieu/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/ni-maitre/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Blanc/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Noir/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Violet/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Vert/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Orange/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Rouge/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Jaune/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Bleu/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/CharlesEtLouise6/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/CharlesEtLouise5/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/CharlesEtLouise4/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/CharlesEtLouise3/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/CharlesEtLouise2/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/CharlesEtLouise1/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Horizontal/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Vertical/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Boyard/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Phare/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Petit-matin/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Annonciation/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Assomption/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Bon_debarras/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Le_choix/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Jalousie/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Passage/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Pericles/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Poussin/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Cadre/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Apres_l_orage/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Marais/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Desir/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Naissance/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Enfance2/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Rencontre/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Philippe/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Saisons/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Aurore_1/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Aurore_2/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Redemption/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/La_cite/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Paysage-bleu/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Nu/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Nu_1/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Nu_2/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Mireille/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Renaissance/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Enfance1/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Lumiere/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Crepuscule/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Nuit/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Rose/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Main/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Fenetre/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Tableau-dechire/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Communion/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Mt-St_Michel/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Sans-titre/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Edison/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/Sinai/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/decorations/Porte/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/decorations/Colonnes/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/decorations/Escalier_bory/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/decorations/Legumes/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/decorations/Placards/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/Chambre_Loroux/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/Cuisine_Parmain/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/Entree/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/Escalier/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/Showroom/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/Salle/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/SaM_Nointel/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/SdBParmain/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/ChambreNointel/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/ChambreTaverny/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/CouloirTaverny/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/Dessusdeportes/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/SdBNointel/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/SdBTaverny/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/SalonNointel/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/murs/ChambreParmain/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/NotreDame/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/ArcdeTriomphe/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/ColonneJuillet/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/Invalides/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/TourEiffel/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/Opera/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/Obelisque/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/SacreCoeur/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/SainteChapelle/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/StatueLiberte/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/PontAlexandre/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/Mur/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/Vignes/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/Vignobles/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/Illustrations/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/Paysages/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/MainGouache/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/OneToutou/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/Porque/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/dessins/10ans/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/divers/Auto49/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/divers/PanneauAuto49/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/divers/PanneauHV/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/divers/PanneauMN/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/divers/PanneauPhilippe/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://boussemart.com/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-12-12</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-12-12</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/decorations/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/divers/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/l_attente/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/atterrissage/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/MaBulle/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Help/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Jour_et_Nuit/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Rose_2/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Life/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/cheval/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Reconciliation/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/element_1/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/element_2/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/element_3/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/element_4/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/element_5/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/element_6/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/enfin_libres/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/La_Grande_Vague/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LesLarmesDePericles/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LeReposDuGuerrier/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LeRegardQuiTue/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LaGrandeVague/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/horloge/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/Fragonard/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/paravent/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/chambre_nointel/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/chambre_taverny/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/couloir_taverny/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/dessus_de_portes/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/salle_de_bain_nointel/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/salle_de_bain_taverny/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/salon_nointel/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/Vernet/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/copies/vernet_marseille/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Vache/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Santorin_matin/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Santorin_au_soir/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Paysage_grec/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/La_victoire_de_la_Nature/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Damocles/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LiberteEgaliteFraternite/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Occident/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Orient/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LumiereEtTenebres/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LeTemps/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Hier/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Aujourdhui/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Demain/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Jarrive/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Chaos-et-Harmonie/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/LesSaisons/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/laporte/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/clementine/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/ni-dieu_ni-maitre/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/ni-dieu/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/ni-maitre/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Blanc/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Noir/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Violet/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Vert/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Orange/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Rouge/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Jaune/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Bleu/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/CharlesEtLouise6/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/CharlesEtLouise5/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/CharlesEtLouise4/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/CharlesEtLouise3/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/CharlesEtLouise2/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/CharlesEtLouise1/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Horizontal/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Vertical/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Boyard/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Phare/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Petit-matin/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Annonciation/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Assomption/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Bon_debarras/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Le_choix/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Jalousie/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Passage/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Pericles/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Poussin/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Cadre/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Apres_l_orage/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Marais/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Desir/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Naissance/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Enfance2/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Rencontre/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Philippe/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Saisons/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Aurore_1/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Aurore_2/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Redemption/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/La_cite/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Paysage-bleu/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Nu/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Nu_1/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Nu_2/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Mireille/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Renaissance/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Enfance1/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Lumiere/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Crepuscule/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Nuit/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Rose/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Main/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Fenetre/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Tableau-dechire/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Communion/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Mt-St_Michel/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Sans-titre/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Edison/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/creations/Sinai/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/decorations/Porte/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/decorations/Colonnes/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/decorations/Escalier_bory/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/decorations/Legumes/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/decorations/Placards/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/Chambre_Loroux/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/Cuisine_Parmain/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/Entree/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/Escalier/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/Showroom/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/Salle/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/SaM_Nointel/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/SdBParmain/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/ChambreNointel/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/ChambreTaverny/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/CouloirTaverny/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/Dessusdeportes/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/SdBNointel/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/SdBTaverny/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/SalonNointel/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/murs/ChambreParmain/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/NotreDame/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/ArcdeTriomphe/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/ColonneJuillet/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/Invalides/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/TourEiffel/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/Opera/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/Obelisque/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/SacreCoeur/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/SainteChapelle/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/StatueLiberte/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/PontAlexandre/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/Mur/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/Vignes/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/Vignobles/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/Illustrations/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/Paysages/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/MainGouache/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/OneToutou/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/Porque/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/dessins/10ans/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/divers/Auto49/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/divers/PanneauAuto49/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/divers/PanneauHV/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/divers/PanneauMN/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
+  <url>
+    <loc>http://boussemart.com/divers/PanneauPhilippe/</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2025-02-11</lastmod>
+  </url>
 </urlset>
