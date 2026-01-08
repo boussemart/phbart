@@ -9,20 +9,27 @@ body {
     min-height: 100vh;
 }
 
-div.corps {
+div.corps, main.corps {
     background: #D2EFF3;
     border: 1px solid #8AA;
     flex-grow: 1;
     padding: 10px; /* Added padding for better readability on mobile */
 }
 
-div.logo {
+div.logo, header.logo {
     font-size: 24px; /* Reduced from 42pt for mobile */
     padding: 10px 0;
     text-align: center; /* Center for mobile */
 }
 
-div.menu {
+div.logo h1, header.logo h1 {
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+div.menu, nav.menu {
     font-size: 16px; /* Reduced from 15pt for mobile */
     text-align: center; /* Center for mobile */
     padding: 10px 0;
@@ -31,7 +38,7 @@ div.menu {
     justify-content: space-around;
 }
 
-div.menu a {
+div.menu a, nav.menu a {
     margin: 0 5px; /* Space between links */
 }
 
@@ -60,7 +67,7 @@ p, ul, li {
 }
 
 /* Footer adjustments */
-div.copyright {
+div.copyright, footer.copyright {
     font-size: 0.8em; /* Smaller font size for mobile */
     padding: 10px 0;
 }
