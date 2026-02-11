@@ -57,7 +57,16 @@ div.page {
 /* Ensure images scale properly */
 img {
     max-width: 100%;
+    width: auto;
     height: auto;
+    object-fit: contain;
+}
+.page img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    min-height: 0;
 }
 
 /* Adjust headings */

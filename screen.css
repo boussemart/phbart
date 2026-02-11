@@ -113,6 +113,21 @@ div.menu a:visited, nav.menu a:visited {
 }
 img {
 	margin:2px;
+	width: auto;
+	height: auto;
+	max-width: 100%;
+	object-fit: contain;
+}
+picture {
+	display: block;
+	max-width: 100%;
+}
+.page img {
+	max-width: 100%;
+	width: auto;
+	height: auto;
+	object-fit: contain;
+	min-height: 0;
 }
 div.page {
 	padding:25px;
