@@ -81,18 +81,19 @@ div.logo h1 a:visited, header.logo h1 a:visited {
 	color:#966;
 	text-decoration:none;
 }
-details.nav-collapse {
+.nav-collapse {
 	display: block;
 	background: #c7c2c2;
 }
-details.nav-collapse > summary {
-	display: none;
+.nav-toggle {
+	position: absolute;
+	opacity: 0;
+	pointer-events: none;
+	width: 1px;
+	height: 1px;
 }
-/* Closed <details> hides non-summary children in the UA stylesheet.
-   Force the bar visible on large screens (summary stays hidden). */
-details.nav-collapse > .menu,
-details.nav-collapse > nav.menu {
-	display: flex !important;
+.nav-toggle-label {
+	display: none;
 }
 div.menu, nav.menu {
 	color:#688;
@@ -191,9 +192,8 @@ div.copyright a:visited, footer.copyright a:visited {
 		min-height: 0;
 		line-height: 1.2;
 	}
-	details.nav-collapse > summary {
+	.nav-toggle-label {
 		display: block;
-		list-style: none;
 		cursor: pointer;
 		background: #c7c2c2;
 		color: #633;
@@ -206,31 +206,24 @@ div.copyright a:visited, footer.copyright a:visited {
 		box-sizing: border-box;
 		user-select: none;
 	}
-	details.nav-collapse > summary:focus-visible {
+	.nav-toggle-label:focus-visible,
+	.nav-toggle:focus-visible + .nav-toggle-label {
 		outline: 2px solid #633;
 		outline-offset: -2px;
 	}
-	details.nav-collapse > summary::-webkit-details-marker {
-		display: none;
-	}
-	details.nav-collapse > summary::marker {
-		content: "";
-	}
-	details.nav-collapse > summary::after {
+	.nav-toggle-label::after {
 		content: "▾";
 		float: right;
 		font-weight: normal;
 	}
-	details.nav-collapse[open] > summary::after {
+	.nav-toggle:checked + .nav-toggle-label::after {
 		content: "▴";
 	}
-	details.nav-collapse:not([open]) > .menu,
-	details.nav-collapse:not([open]) > nav.menu {
-		display: none !important;
+	.nav-toggle:not(:checked) ~ .menu {
+		display: none;
 	}
-	details.nav-collapse[open] > .menu,
-	details.nav-collapse[open] > nav.menu {
-		display: flex !important;
+	.nav-toggle:checked ~ .menu {
+		display: flex;
 		flex-direction: column;
 		flex-wrap: nowrap;
 		justify-content: flex-start;
