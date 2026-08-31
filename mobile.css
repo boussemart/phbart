@@ -17,9 +17,13 @@ div.corps, main.corps {
 }
 
 div.logo, header.logo {
-    font-size: 24px; /* Reduced from 42pt for mobile */
+    font-size: 24px;
     padding: 10px 0;
-    text-align: center; /* Center for mobile */
+    text-align: center;
+    height: auto;
+    min-height: 0;
+    line-height: 1.2;
+    margin-left: 0;
 }
 
 div.logo h1, header.logo h1 {
@@ -38,16 +42,22 @@ div.logo h1 a, header.logo h1 a {
 }
 
 div.menu, nav.menu {
-    font-size: 16px; /* Reduced from 15pt for mobile */
-    text-align: center; /* Center for mobile */
-    padding: 10px 0;
+    font-size: 0;
+    text-align: left;
+    padding: 0;
+    height: auto;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 0;
 }
 
 div.menu a, nav.menu a {
-    margin: 0 5px; /* Space between links */
+    margin: 0;
+    display: block;
+    text-align: left;
 }
 
 div.page {
